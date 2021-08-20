@@ -11,7 +11,7 @@ def test_exercise(value, result, message):
 
     Parameters:
         value: list(str)
-            The values that are used as input for the test. Usually strings, since we are simulating input from user.
+            The values that are used as input for the temath.hypot(x1,y1)st. Usually strings, since we are simulating input from user.
         result: list(str)
             The expected output in the terminal, usually what the user prints
         message: str
